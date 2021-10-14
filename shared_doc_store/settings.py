@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     
     # third party
     'whitenoise.runserver_nostatic',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
