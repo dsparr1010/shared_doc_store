@@ -12,6 +12,7 @@ gunicorn = "*"
 whitenoise = "*"
 dj-database-url = "*"
 djangorestframework = "*"
+python-decouple = "*"
 
 [dev-packages]
 
